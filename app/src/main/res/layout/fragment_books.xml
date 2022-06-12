@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEEEEE"
+    tools:context=".ui.home.books.BooksFragment">
+
+    
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="56dp"
+            android:orientation="vertical"
+            android:paddingBottom="16dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="16dp"
+                android:background="@drawable/custom_border"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="95dp"
+                        android:layout_height="128dp"
+                        app:cardCornerRadius="5dp">
+
+                        <ImageView
+                            android:id="@+id/bImgBook"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/openbook" />
+                    </androidx.cardview.widget.CardView>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="16dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/bNameBook"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Name book"
+                            android:textColor="#222831"
+                            android:textSize="18sp" />
+
+                        <TextView
+                            android:id="@+id/bAuthorBook"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Author book"
+                            android:textColor="#393E46" />
+
+                        <TextView
+                            android:id="@+id/bGenreBook"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Genre book"
+                            android:textSize="12sp" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="bottom"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                android:id="@+id/bRatingBook"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="4.7"
+                                android:textColor="#393E46" />
+
+                            <Button
+                                android:id="@+id/bReadBook"
+                                android:layout_width="wrap_content"
+                                android:layout_height="40dp"
+                                android:text="Oqu" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:text="Sipattama"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/bDescBook"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Adam baspağan iesız aralda qalğan Robinzon Kruzo adamzat örkenietınıƞ bükıl jürıp ötken jolyn qaita ötkerıp, öz tırşılıgın qalpyna keltıredı. Erıksız jalğyz ğūmyr keşuge mäjbür bolğan talaisyz qaharman oilanuğa mūrsat alyp, basyna tüsken qiyndyqtyƞ sebebıne üƞılu arqyly täubasyna kelıp, qūdai jolyna tüsedı. Jüregıne iman ornap, jany tynyştyq tapqan Kruzo qauıptı de almağaiyp jalğyzılıktı ğūmyrynda peşenesıne jazylğan adam tözgısız qiyndyqtardyƞ bärıne tötep beredı. Adamnyƞ aqyl-parasaty men erık-jıgerınıƞ synğa tüsıp, şar bolattai şyƞdaluynyƞ ädebi-körkem baianynyƞ üzdık ülgısın aldymyzğa jaiyp salady."
+                    android:textColor="#393E46" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="16dp"
+                android:background="@drawable/custom_border"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView
+                    android:id="@+id/bYearBook"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Şyğarylğan jyly: 1719"
+                    android:textColor="#393E46" />
+
+                <TextView
+                    android:id="@+id/bPagesBook"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Better: 280"
+                    android:textColor="#393E46" />
+
+                <TextView
+                    android:id="@+id/bEditionBook"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Şyğarylym: 111-222-333"
+                    android:textColor="#393E46" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

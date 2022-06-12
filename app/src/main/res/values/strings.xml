@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kitap</string>
+    <string name="title_home">Basty</string>
+    <string name="title_category">Sanattar</string>
+    <string name="title_search">Izdeu</string>
+    <string name="title_read">Oqy</string>
+    <string name="title_convert">Konverter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="izdeyBeti">Izdegen kıtabıƞızdı jağarydağy jolğa engızıƞız</string>
+</resources>
