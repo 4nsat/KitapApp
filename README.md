@@ -19,7 +19,10 @@ The database consists of 3 tables: _books, description, genres._
 ---
 ## Main page
 
-![](readme/mainpage.gif) ![](readme/mainpagemore.gif)
+![](https://4nimakz.000webhostapp.com/gifs/Main.gif) 
+
+
+![](https://4nimakz.000webhostapp.com/gifs/Bari.gif)
 
 The main page consists of three main parts.
 * Most popular
@@ -34,7 +37,10 @@ There are 10 books in each section, and when you click the All button, a sorted 
 ---
 ## Genres page
 
-![](readme/genrespage.gif) <img src="readme/genrespagemore.jpg" alt="icon" width="246"/> 
+<img src="https://4nimakz.000webhostapp.com/gifs/Genre.gif" width="246"/> 
+
+
+<img src="readme/genrespagemore.jpg" alt="icon" width="246"/> 
 
 
 When you go to the category page, a list of book genres will appear, and when you select a desired genre, a list of books of that genre will appear.
@@ -43,7 +49,7 @@ When you go to the category page, a list of book genres will appear, and when yo
 
 ## Search page
 
-![](readme/searchpage.gif)
+![](https://psv4.vkuseraudio.net/s/v1/d/Ifp9JTeTiOwgXQQXqGZyDNRrUN7OaG-exD1PPraDrEKrXMVBdvMcGKgVZY1hG92xEVM7AhN7b7F73Qnolqt7W37Loh9qTy5vJUam7oDJU-8HPI612xz9FA/searchpage.gif)
 
 Here is how the search page for the required book works. Search by Author and Book name works at the same time.
 
@@ -51,7 +57,7 @@ Here is how the search page for the required book works. Search by Author and Bo
 
 ## Single book page
 
-![](readme/singlebookpage.gif)
+![](https://psv4.vkuseraudio.net/s/v1/d/vJjNvUPqg2Lga70nt4u3fNYPJSWsIj_1cRhXceNPf_kOi0fTT3OxztQwdpTPs3YYUQsqBmJFxprC0DLhQAUat6ryxyA_HaCrEjV0YkRN889g-71QOWSVPA/singlebookpage.gif)
 
 Personal book page. Here is a little information about the book.
 This page will check if the book is loaded. If the book is not downloaded, the button says Download. If loaded, it says Reading. Clicking the read button opens the book for reading in PDF format.
@@ -61,7 +67,7 @@ This page will check if the book is loaded. If the book is not downloaded, the b
 
 ## Translator page
 
-![](readme/translatepage1.gif) ![](readme/translatepage2.gif)
+![](https://4nimakz.000webhostapp.com/gifs/Қаз.gif) ![](https://4nimakz.000webhostapp.com/gifs/Qaz.gif)
 
 To translate text from Cyrillic to Latin and vice versa. (Letters) Symbols that may not be available on the phone are listed in a separate section.
 
