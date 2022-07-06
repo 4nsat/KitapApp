@@ -49,7 +49,7 @@ Here is how the search page for the required book works. Search by Author and Bo
 
 ---
 
-## Search page
+## Single book page
 
 ![](readme/singlebookpage.gif)
 
@@ -59,7 +59,7 @@ This page will check if the book is loaded. If the book is not downloaded, the b
 ---
 
 
-## Search page
+## Translator page
 
 ![](readme/translatepage1.gif) ![](readme/translatepage2.gif)
 
