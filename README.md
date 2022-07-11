@@ -19,11 +19,7 @@ The database consists of 3 tables: _books, description, genres._
 ---
 ## Main page
 
-<img src="https://psv4.vkuseraudio.net/s/v1/d/F7w5R1dvt9O4NvtbkRcTp_N-C8iuiURJr8zjMpZ75WqU7Doj-udbU0SdcTRqEAVY36VuA7Ws3yYz5Q8_iOKhSsCndemFCYJWbsCe_B-a-o4jhN87ZOm1mg/Main.gif" width="246"/> 
-
-
-
-<img src="https://psv4.vkuseraudio.net/s/v1/d/wXlFImtHeuoCob3SB9zLp9wkvnA67j6pLy4Wlw1hMHM2xPCpYPTjUeexPb9gzVuiRsOoBY5KWCmskwAiD61FYSjsk0ubu5EQIvGpRecJcgdvbOoHQfOzzA/Bari.gif" width="246"/> 
+![](https://psv4.userapi.com/c237331/u201842970/docs/d39/c4d1296b8f62/mainpage.gif)
 
 The main page consists of three main parts.
 * Most popular
