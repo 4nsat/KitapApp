@@ -16,8 +16,11 @@ The database consists of 3 tables: _books, description, genres._
 
 ![](readme/books.png) ![](readme/description.png) ![](readme/genres.png)
 
+
 ---
+
 ## Main page
+
 
 ![Main](https://psv4.userapi.com/c505536/u201842970/docs/d25/f2be9174d97e/mainpagemore.gif)
 
@@ -32,6 +35,8 @@ Popular - books are displayed sorted by rating.
 New is sorted by the date it was added to the database, and Easy Read is sorted by the number of pages.
 
 There are 10 books in each section, and when you click the All button, a sorted list of 25 books will appear.
+
+
 ---
 ## Genres page
 
