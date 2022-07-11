@@ -21,6 +21,7 @@ The database consists of 3 tables: _books, description, genres._
 ## Main page
 
 ![Main](https://4nimakz.000webhostapp.com/gifs/ezgif.com-gif-maker.gif)
+![Main](https://4nimakz.000webhostapp.com/gifs/mainpage.gif)
 
 The main page consists of three main parts.
 * Most popular
@@ -65,9 +66,5 @@ This page will check if the book is loaded. If the book is not downloaded, the b
 <img src="https://4nimakz.000webhostapp.com/gifs/Қаз.gif" width="246"/>  <img src="https://4nimakz.000webhostapp.com/gifs/Qaz.gif" width="246"/> 
 
 To translate text from Cyrillic to Latin and vice versa. (Letters) Symbols that may not be available on the phone are listed in a separate section.
-
-
-
-![](https://psv4.userapi.com/c235031/u201842970/docs/d45/00068d648e59/ezgif_com-gif-maker.gif)
 
 
