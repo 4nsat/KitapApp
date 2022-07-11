@@ -21,6 +21,8 @@ The database consists of 3 tables: _books, description, genres._
 
 <img src="https://psv4.vkuseraudio.net/s/v1/d/F7w5R1dvt9O4NvtbkRcTp_N-C8iuiURJr8zjMpZ75WqU7Doj-udbU0SdcTRqEAVY36VuA7Ws3yYz5Q8_iOKhSsCndemFCYJWbsCe_B-a-o4jhN87ZOm1mg/Main.gif" width="246"/> 
 
+
+
 <img src="https://psv4.vkuseraudio.net/s/v1/d/wXlFImtHeuoCob3SB9zLp9wkvnA67j6pLy4Wlw1hMHM2xPCpYPTjUeexPb9gzVuiRsOoBY5KWCmskwAiD61FYSjsk0ubu5EQIvGpRecJcgdvbOoHQfOzzA/Bari.gif" width="246"/> 
 
 The main page consists of three main parts.
@@ -35,7 +37,9 @@ New is sorted by the date it was added to the database, and Easy Read is sorted 
 There are 10 books in each section, and when you click the All button, a sorted list of 25 books will appear.
 ---
 ## Genres page
-![](https://4nimakz.000webhostapp.com/gifs/Genre.gif)
+
+<img src="https://psv4.vkuseraudio.net/s/v1/d/-im0Bekxnu36Ht29GAL5d53XVWDA0W8NWXRAD8RzzNWuctrlZOqxFrkqTnP7slt0Fmc5OLJCcRjgiop_PXi9EnzGFkHLlZiaysM7orVyG2LObtBqv9NMnA/Genre.gif" width="246"/> 
+
 ![](readme/genrespagemore.jpg)
 
 When you go to the category page, a list of book genres will appear, and when you select a desired genre, a list of books of that genre will appear.
