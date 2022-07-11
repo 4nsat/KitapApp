@@ -35,10 +35,7 @@ There are 10 books in each section, and when you click the All button, a sorted 
 ---
 ## Genres page
 
-<img src="https://psv4.vkuseraudio.net/s/v1/d/-im0Bekxnu36Ht29GAL5d53XVWDA0W8NWXRAD8RzzNWuctrlZOqxFrkqTnP7slt0Fmc5OLJCcRjgiop_PXi9EnzGFkHLlZiaysM7orVyG2LObtBqv9NMnA/Genre.gif" width="246"/> 
-
-
-<img src="readme/genrespagemore.jpg" width="246"/> 
+<img src="https://psv4.vkuseraudio.net/s/v1/d/-im0Bekxnu36Ht29GAL5d53XVWDA0W8NWXRAD8RzzNWuctrlZOqxFrkqTnP7slt0Fmc5OLJCcRjgiop_PXi9EnzGFkHLlZiaysM7orVyG2LObtBqv9NMnA/Genre.gif" width="246"/> <img src="readme/genrespagemore.jpg" width="246"/> 
 
 When you go to the category page, a list of book genres will appear, and when you select a desired genre, a list of books of that genre will appear.
 
@@ -63,8 +60,7 @@ This page will check if the book is loaded. If the book is not downloaded, the b
 
 
 ## Translator page
-
-![](https://4nimakz.000webhostapp.com/gifs/Қаз.gif) ![](https://4nimakz.000webhostapp.com/gifs/Qaz.gif)
+<img src="https://4nimakz.000webhostapp.com/gifs/Қаз.gif" width="246"/>  <img src="https://4nimakz.000webhostapp.com/gifs/Qaz.gif" width="246"/> 
 
 To translate text from Cyrillic to Latin and vice versa. (Letters) Symbols that may not be available on the phone are listed in a separate section.
 
