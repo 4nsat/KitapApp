@@ -19,10 +19,9 @@ The database consists of 3 tables: _books, description, genres._
 ---
 ## Main page
 
-![](https://4nimakz.000webhostapp.com/gifs/Main.gif) 
+<img src="https://psv4.vkuseraudio.net/s/v1/d/F7w5R1dvt9O4NvtbkRcTp_N-C8iuiURJr8zjMpZ75WqU7Doj-udbU0SdcTRqEAVY36VuA7Ws3yYz5Q8_iOKhSsCndemFCYJWbsCe_B-a-o4jhN87ZOm1mg/Main.gif" width="246"/> 
 
-
-![](https://4nimakz.000webhostapp.com/gifs/Bari.gif)
+<img src="https://psv4.vkuseraudio.net/s/v1/d/wXlFImtHeuoCob3SB9zLp9wkvnA67j6pLy4Wlw1hMHM2xPCpYPTjUeexPb9gzVuiRsOoBY5KWCmskwAiD61FYSjsk0ubu5EQIvGpRecJcgdvbOoHQfOzzA/Bari.gif" width="246"/> 
 
 The main page consists of three main parts.
 * Most popular
@@ -36,12 +35,8 @@ New is sorted by the date it was added to the database, and Easy Read is sorted 
 There are 10 books in each section, and when you click the All button, a sorted list of 25 books will appear.
 ---
 ## Genres page
-
-<img src="https://4nimakz.000webhostapp.com/gifs/Genre.gif" width="246"/> 
-
-
-<img src="readme/genrespagemore.jpg" alt="icon" width="246"/> 
-
+![](https://4nimakz.000webhostapp.com/gifs/Genre.gif)
+![](readme/genrespagemore.jpg)
 
 When you go to the category page, a list of book genres will appear, and when you select a desired genre, a list of books of that genre will appear.
 
