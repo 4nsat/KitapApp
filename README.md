@@ -18,12 +18,9 @@ The database consists of 3 tables: _books, description, genres._
 
 
 ---
-
 ## Main page
 
-
-![Main](https://psv4.userapi.com/c505536/u201842970/docs/d25/f2be9174d97e/mainpagemore.gif)
-
+![Main](https://4nimakz.000webhostapp.com/gifs/ezgif.com-gif-maker.gif)
 
 The main page consists of three main parts.
 * Most popular
