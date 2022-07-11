@@ -19,7 +19,7 @@ The database consists of 3 tables: _books, description, genres._
 ---
 ## Main page
 
-![](https://psv4.userapi.com/c237331/u201842970/docs/d39/c4d1296b8f62/mainpage.gif)
+![Main](https://psv4.userapi.com/c505536/u201842970/docs/d25/f2be9174d97e/mainpagemore.gif)
 
 
 The main page consists of three main parts.
@@ -37,7 +37,8 @@ There are 10 books in each section, and when you click the All button, a sorted 
 
 <img src="https://psv4.vkuseraudio.net/s/v1/d/-im0Bekxnu36Ht29GAL5d53XVWDA0W8NWXRAD8RzzNWuctrlZOqxFrkqTnP7slt0Fmc5OLJCcRjgiop_PXi9EnzGFkHLlZiaysM7orVyG2LObtBqv9NMnA/Genre.gif" width="246"/> 
 
-![](readme/genrespagemore.jpg)
+
+<img src="readme/genrespagemore.jpg" width="246"/> 
 
 When you go to the category page, a list of book genres will appear, and when you select a desired genre, a list of books of that genre will appear.
 
