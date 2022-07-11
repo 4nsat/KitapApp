@@ -68,4 +68,6 @@ To translate text from Cyrillic to Latin and vice versa. (Letters) Symbols that 
 
 
 
+![](https://psv4.userapi.com/c235031/u201842970/docs/d45/00068d648e59/ezgif_com-gif-maker.gif)
+
 
